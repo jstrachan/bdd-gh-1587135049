@@ -1,4 +1,8 @@
 approvers:
 - jenkins-x-labs-bot
+- jstrachan
+- rawlingsj
 reviewers:
 - jenkins-x-labs-bot
+- jstrachan
+- rawlingsj
